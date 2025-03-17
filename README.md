@@ -1,6 +1,6 @@
 <h1> Test <\h1>
 
--En Proceso
+- En Proceso
 
 Para ejecutar el archivo, haz de colocar:
 
